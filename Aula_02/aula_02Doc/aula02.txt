@@ -1,0 +1,3 @@
+a aula de hoje eu vi como importar um function de um componete para outo componete
+
+relembrando que o arquivo e sempre bom ser começado com maiuculo!!
