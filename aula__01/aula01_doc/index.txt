@@ -1,0 +1,19 @@
+Antes de tudo vc tem que ter o node.js
+site do node: https://nodejs.org/pt (preferencia a versão lts)
+
+instalado na maquina o vscode
+site do vscode: https://code.visualstudio.com/ 
+
+comando para inicializa o react
+
+    [npx create-react-app "nome da aplicação sem as aspas"]
+
+comando caso o npm não esteje funcionando no computado.
+esse comando habilita o npm no pc pelo powershell!!
+
+    [Set-ExecutionPolicy Unrestricted -Scope CurrentUser]
+
+O react e uma intensão pesada!!
+o react funciona com a conjução do js e html contendo algumas coisas diferentes como o class 
+que no jsx e className
+eu deixei no codigo de aplicação isso
