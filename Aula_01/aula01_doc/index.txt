@@ -17,3 +17,8 @@ O react e uma intensão pesada!!
 o react funciona com a conjução do js e html contendo algumas coisas diferentes como o class 
 que no jsx e className
 eu deixei no codigo de aplicação isso
+
+npm start → Inicia o servidor de desenvolvimento.
+npm run build → Compila o aplicativo para produção, gerando arquivos estáticos.
+npm test → Executa os testes configurados no projeto.
+npm run eject → Remove a abstração do Create React App, expondo toda a configuração. (Cuidado! Essa ação é irreversível.)
