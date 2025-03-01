@@ -1,5 +1,5 @@
 import Style from './NavBar.module.css';
-
+import Ops from './Navbar_ops'
 function Navbar() {
     return (
         <div className={Style.header_component_Container}>
@@ -7,11 +7,10 @@ function Navbar() {
                 <h1>Logo</h1>
             </div>
             <div>
-                <a href="#" className={Style.headerComponents_links}>Text</a>
-                <a href="#" className={Style.headerComponents_links}>Text</a>
-                <a href="#" className={Style.headerComponents_links}>Text</a>
+                <Ops/>
             </div>
         </div>
+
     )
 };
 export default Navbar
