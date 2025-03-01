@@ -1,3 +1,5 @@
 a aula de hoje eu vi como importar um function de um componete para outo componete
 
 relembrando que o arquivo e sempre bom ser começado com maiuculo!!
+
+Props foi descontinuado e trocado pelo o typeScript que por sua vez e mais seguro e facil de codificar !!!

@@ -22,3 +22,10 @@ npm start → Inicia o servidor de desenvolvimento.
 npm run build → Compila o aplicativo para produção, gerando arquivos estáticos.
 npm test → Executa os testes configurados no projeto.
 npm run eject → Remove a abstração do Create React App, expondo toda a configuração. (Cuidado! Essa ação é irreversível.)
+
+
+caso o react-script de error
+    [npm i -g react-scripts]
+
+para instalar o npm 
+    [npm install]

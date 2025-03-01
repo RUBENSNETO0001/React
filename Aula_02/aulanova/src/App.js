@@ -4,6 +4,8 @@ import Meunome from './components/Meunome'
 import Anime from './components/anime'
 import Frase from './components/Frase'
 
+import List from './components/list'
+
 const nono = 'joao'
 function App() {
   return (
@@ -15,6 +17,10 @@ function App() {
       <Anime nome = 'Luffy' idade = '20' profissao = 'Capitão do chapel de palha' foto = 'https://sm.ign.com/ign_br/screenshot/default/imagem-2023-12-15-163503393_5d5p.jpg'/>
       <Frase />
       <Frase />
+      <br />
+      <br />
+      <br />
+      <List />
     </div>
   );
 }
